@@ -62,7 +62,7 @@ def intro():
     print ("\033[1;31m[2] \033[1;32mHELP ")
     print ("\033[1;31m[3] \033[1;32mEXIT ")
     print ""
-    user_choise = raw_input("\033[1;34mSnigdho\033[1;31m>>  ")
+    user_choise = raw_input("\033[1;34mALAMIN\033[1;31m>>  ")
     if user_choise == "1":
        sms_bombing()
     elif user_choise == "2":
